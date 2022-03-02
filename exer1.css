@@ -1,0 +1,38 @@
+h1{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(253, 253, 253);
+    font-style: oblique;
+    text-transform: uppercase;
+    text-align: center;
+    background-blend-mode: hard-light;
+    text-decoration: underline rgb(161, 0, 0);
+
+}
+
+h2{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    text-align: center;
+    background-blend-mode: hard-light;
+}
+
+h3{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-blend-mode: hard-light;
+}
+
+body{
+    background-image: url('bg.jpg');
+    background-size: cover;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
